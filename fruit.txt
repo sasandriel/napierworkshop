@@ -1,2 +1,5 @@
 orange
 mandarinka
+pinapple
+cherry
+lemon
